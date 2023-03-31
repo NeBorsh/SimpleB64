@@ -4,4 +4,5 @@ I had nothing to do, and through the stump the deck wrote "this" shit for myself
 p.s: The code is completely not mine, I wrote using AI (the code is not all of AI) :3
 
 > ```pip install console-menu```
-> ```python nigga.py```
+> 
+> ```python main.py```
