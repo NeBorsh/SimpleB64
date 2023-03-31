@@ -29,3 +29,5 @@ while True:
         decode()
     else:
         break
+
+# I'm sorry, I didn't write the code in the best mental state...
